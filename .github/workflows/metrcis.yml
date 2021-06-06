@@ -16,3 +16,4 @@ jobs:
           user: gallis-local
           template: classic
           base: header, repositories, metadata
+          config_padding: 5%          
