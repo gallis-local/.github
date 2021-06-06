@@ -14,5 +14,6 @@ jobs:
         with:
           template: classic    
           config_output: svg
+          user: gallis-local
           base: header, activity, metadata
           token: ${{ secrets.METRICS_TOKEN }}
