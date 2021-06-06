@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="209" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="198" class="">
     <defs>
         <style/>
     </defs>
@@ -1231,7 +1231,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated Sun, 06 Jun 2021 20:50:24  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Sun, 06 Jun 2021 20:56:31  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
