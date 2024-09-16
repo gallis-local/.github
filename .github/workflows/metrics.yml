@@ -15,5 +15,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: gallis-local
           template: classic
-          base: header, repositories, metadata
+          base: header, activity, community, repositories, metadata
           config_padding: 5%          
