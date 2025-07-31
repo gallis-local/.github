@@ -7,7 +7,7 @@ on:
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
-    runs-on: [gallis-gh-arm-runner]
+    runs-on: [gallis-gh-runner]
     steps:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
